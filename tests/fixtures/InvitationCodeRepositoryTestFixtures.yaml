@@ -1,0 +1,5 @@
+\App\Entity\InvitationCode:
+    invitation:
+        description: Invitation
+        code: '54321'
+        expireAt: '<datetime()>'

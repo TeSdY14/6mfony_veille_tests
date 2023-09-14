@@ -1,0 +1,4 @@
+App\Entity\User:
+    user{1..10}:
+        email: user<current()>\@test.com
+        password: '0000'
